@@ -1,0 +1,15 @@
+﻿<Properties StartupConfiguration="{AD2C7AD0-6A4D-9543-BD4D-04E88AA174B1}|">
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="Unity.Editor" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/move_rubbish.cs">
+    <Files>
+      <File FileName="Assets/scoreupdate.cs" Line="10" Column="6" />
+      <File FileName="Assets/move_rubbish.cs" Line="28" Column="21" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+</Properties>
