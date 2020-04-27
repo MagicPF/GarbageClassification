@@ -1,0 +1,2 @@
+# GarbageClassification
+Group B Project
